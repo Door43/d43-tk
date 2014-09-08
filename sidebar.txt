@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tk:home|Door43 (tk)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[tk:obs|Open Bible Stories (tk)]]
+
+**Recent Changes**
+{{changes>ns = tk}}
+
+**Latest Status**
+{{page>en:uwadmin:tk:obs:status}}
+
