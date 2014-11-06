@@ -2,6 +2,32 @@
 
 Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[en:obs:help|here]], and useful information may also be found at [[en:get-started|"Getting Started"]] and [[en:tips-tricks|"Tips & Tricks"]]. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
 
+==== Notes on the Initial Import ====
+
+The stories with mismatched frames appear to be the following:
+
+  * 05.txt
+  * 07.txt
+  * 09.txt
+  * 14.txt
+  * 32.txt
+  * 37.txt
+  * 38.txt
+  * 40.txt
+  * 45.txt (for which I just included the text at the bottom of the English version)
+  * 46.txt
+
+It might be apparent which files I manually imported text into --  They are the ones that preserve the original spacing of the English docuwiki text files.
+
+Also, I did not take the time to move the periods to the correct side of their sentences.  I also did not remove page numbers from the translation text.
+
+I believe all of these text files are encoded in "utf-8 without BOM" according to Notepad++.
+
+-Ben Olson
+
+Note that this translation needs to be updated to version 3.1.1.  If you are interested in doing that, please see [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1 to 3 Changes]] for a list of what needs updated.
+
+
 {{page>tk:obs:stories}}
 
 {{page>en:obs:active}}
