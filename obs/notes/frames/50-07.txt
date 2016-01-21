@@ -7,8 +7,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:tk:obs:notes:key-terms/servant|servants]]**
-  * **[[:tk:obs:notes:key-terms/lord|master]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:lord]]**
 
 
 ===== Translation Notes: =====
