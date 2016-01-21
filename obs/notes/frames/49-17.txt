@@ -5,16 +5,16 @@
 If you are a friend of **God** and a **servant** of **Jesus** the **Master**, you will want to **obey** what Jesus teaches you. Even though you are a **Christian**, you will still **be tempted to sin**. But God **is faithful** and says that if you **confess your sins**, he will **forgive** you. **He will give you strength to fight against sin**.
 ===== Important Terms: =====
 
-  * **[[:tk:obs:notes:key-terms/god|God]]**
-  * **[[:tk:obs:notes:key-terms/servant|servant]]**
-  * **[[:tk:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tk:obs:notes:key-terms/lord|Master]]**
-  * **[[:tk:obs:notes:key-terms/obey|obey]]**
-  * **[[:tk:obs:notes:key-terms/christian|Christian]]**
-  * **[[:tk:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:tk:obs:notes:key-terms/sin|sin]]**
-  * **[[:tk:obs:notes:key-terms/faithful|faithful]]**
-  * **[[:tk:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:other:servant]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:lord]]**
+  * **[[:tr:obe:other:obey]]**
+  * **[[:tr:obe:kt:christian]]**
+  * **[[:tr:obe:kt:tempt]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:faithful]]**
+  * **[[:tr:obe:kt:forgive]]**
 
 
 ===== Translation Notes: =====
