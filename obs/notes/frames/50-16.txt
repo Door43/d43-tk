@@ -5,13 +5,15 @@
 Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
 ===== Important Terms: =====
 
-  * **[[:tk:obs:notes:key-terms/adam|Adam]]**
-  * **[[:tk:obs:notes:key-terms/eve|Eve]]**
-  * **[[:tk:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:tk:obs:notes:key-terms/god|God]]**
-  * **[[:tk:obs:notes:key-terms/sin|sin]]**
-  * **[[:tk:obs:notes:key-terms/curse|cursed]]**
   * **[[:tk:obs:notes:key-terms/heaven|heaven]]**
+  * **[[:tr:obe:other:adam]]**
+  * **[[:tr:obe:other:eve]]**
+  * **[[:tr:obe:other:disobey]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:curse]**
+  * **[[:tr:obe:kt:heaven]]**
+  
 
 
 ===== Translation Notes: =====
