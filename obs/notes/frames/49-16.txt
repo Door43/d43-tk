@@ -5,11 +5,12 @@
 If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
 ===== Important Terms: =====
 
-  * **[[:tk:obs:notes:key-terms/christian|Christian]]**
-  * **[[:tk:obs:notes:key-terms/god|God]]**
-  * **[[:tk:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:tk:obs:notes:key-terms/sin|sins]]**
-  * **[[:tk:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:tr:obe:kt:christian]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:forgive]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:kt:jesus]]**
+
 
 
 ===== Translation Notes: =====
