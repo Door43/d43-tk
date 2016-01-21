@@ -5,13 +5,15 @@
 **Jesus** never **sinned**, but he chose to be **punished** and to **die** as the perfect **sacrifice** to **take away** your sins and the sins of every person in the world. Because Jesus sacrificed himself, **God** can **forgive** any sin, even terrible sins.
 ===== Important Terms: =====
 
-  * **[[:tk:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:tk:obs:notes:key-terms/sin|sinned]]**
-  * **[[:tk:obs:notes:key-terms/punish|punished]]**
-  * **[[:tk:obs:notes:key-terms/death|die]]**
-  * **[[:tk:obs:notes:key-terms/sacrifice|sacrifice]]**
-  * **[[:tk:obs:notes:key-terms/god|God]]**
-  * **[[:tk:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tr:obe:kt:sin]]**
+  * **[[:tr:obe:other:punish]]**
+  * **[[:tr:obe:kt:death]]**
+  * **[[:tr:obe:other:sacrifice]]**
+  * **[[:tr:obe:kt:god]]**
+  * **[[:tr:obe:kt:forgive]]**
+
+
 
 
 ===== Translation Notes: =====
