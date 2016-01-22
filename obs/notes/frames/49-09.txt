@@ -6,14 +6,14 @@ But **God loved** everyone in the world so much that he **gave his only Son** so
 ===== Important Terms: =====
 
   * **[[:tk:obs:notes:key-terms/god-son|Son]]**
-  * **[[:tr:obe:kt:god]]**
-  * **[[:tr:obe:kt:love]]**
-  * **[[:tr:obe:kt:son]]**
-  * **[[:tr:obe:kt:believe]]**
-  * **[[:tr:obe:kt:jesus]]**
-  * **[[:tr:obe:other:punish]]**
-  * **[[:tr:obe:kt:sin]]**
-  * **[[:tr:obe:kt:life]]**
+  * **[[:tk:obs:notes:key-terms/god]]**
+  * **[[:tk:obs:notes:key-terms/love]]**
+  * **[[:tk:obs:notes:key-terms/son]]**
+  * **[[:tk:obs:notes:key-terms/believe]]**
+  * **[[:tk:obs:notes:key-terms/Jesus]]**
+  * **[[:tk:obs:notes:key-terms/punish]]**
+  * **[[:tk:obs:notes:key-terms/sin]]**
+  * **[[:tk:obs:notes:key-terms/life]]**
 
 
 ===== Translation Notes: =====
