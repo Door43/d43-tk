@@ -5,12 +5,12 @@
 **Jesus promised** to give a **crown** to everyone who **believes** in him. They will **live** and reign with **God** in **perfect peace** forever.
 ===== Important Terms: =====
 
-  * **[[:tr:obe:kt:jesus]]**
-  * **[[:tr:obe:kt:promise]]**
-  * **[[:tr:obe:kt:believe]]**
-  * **[[:tr:obe:kt:life]]**
-  * **[[:tr:obe:kt:god]]**
-  * **[[:tr:obe:other:peace]]**
+  * **[[:tk:obs:notes:key-terms/jesus]]**
+  * **[[:tk:obs:notes:key-terms/promise]]**
+  * **[[:tk:obs:notes:key-terms/believe]]**
+  * **[[:tk:obs:notes:key-terms/life]]**
+  * **[[:tk:obs:notes:key-terms/god]]**
+  * **[[:tk:obs:notes:key-terms/peace]]**
 
 
 
