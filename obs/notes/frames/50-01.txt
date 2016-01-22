@@ -6,10 +6,10 @@ For almost 2,000 years, more and more people around the world have been hearing 
 ===== Important Terms: =====
 
   * **[[:tk:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:tr:obe:kt:goodnews]]**
-  * **[[:tr:obe:kt:jesus]]** 
-  * **[[:tr:obe:kt:church]]**
-  * **[[:tr:obe:kt:promise]]**
+  * **[[:tk:obs:notes:key-terms/jesus]]**
+  * **[[:tk:obs:notes:key-terms/church]]** 
+  * **[[:tk:obs:notes:key-terms/promise]]**
+
 
  
 
