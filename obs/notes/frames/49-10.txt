@@ -5,14 +5,15 @@
 **Because of your sin**, you are **guilty** and deserve to **die**. **God should be angry** with you, but **he poured out his anger on Jesus** instead of on you. When Jesus died on the **cross**, he **received your punishment**.
 ===== Important Terms: =====
 
-  * **[[:tr:obe:kt:sin]]**
-  * **[[:tr:obe:kt:guilt]]**
-  * **[[:tr:obe:kt:death]]**
-  * **[[:tr:obe:kt:god]]**
-  * **[[:tr:obe:kt:jesus]]**
-  * **[[:tr:obe:kt:cross]]**
-  * **[[:tr:obe:kt:receive]]**
-  * **[[:tr:obe:other:punish]]**
+  * **[[:tk:obs:notes:key-terms/sin]]**
+  * **[[:tk:obs:notes:key-terms/guilt]]**
+  * **[[:tk:obs:notes:key-terms/death]]**
+  * **[[:tk:obs:notes:key-terms/God]]**
+  * **[[:tk:obs:notes:key-terms/Jesus]]**
+  * **[[:tk:obs:notes:key-terms/cross]]**
+  * **[[:tk:obs:notes:key-terms/receive]]**
+
+
 
 
 ===== Translation Notes: =====
