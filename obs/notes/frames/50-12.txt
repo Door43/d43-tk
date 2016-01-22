@@ -5,11 +5,12 @@
 Then the **Christians** who are **still alive** will rise up into the sky and join with the other Christians who **rose** from the **dead**. They will all be with **Jesus** there.
 ===== Important Terms: =====
 
-  * **[[:tr:obe:kt:christian]]**
-  * **[[:tr:obe:kt:life]]**
-  * **[[:tr:obe:kt:raise]]**
-  * **[[:tr:obe:kt:death]]**
-  * **[[:tr:obe:kt:jesus]]**
+  * **[[:tk:obs:notes:key-terms/Christian]]**
+  * **[[:tk:obs:notes:key-terms/life]]**
+  * **[[:tk:obs:notes:key-terms/raise]]**
+  * **[[:tk:obs:notes:key-terms/death]]**
+  * **[[:tk:obs:notes:key-terms/jesus]]**
+
 
 
 
