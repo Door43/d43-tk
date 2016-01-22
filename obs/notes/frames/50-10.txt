@@ -6,11 +6,11 @@
 ===== Important Terms: =====
 
   * **[[:tk:obs:notes:key-terms:god-father|God their Father]]**
-  * **[[:tr:obe:kt:angel]]**
-  * **[[:tr:obe:kt:satan]]**
-  * **[[:tr:obe:kt:suffer]]**
-  * **[[:tr:obe:kt:righteous]]**
-  * **[[:tr:obe:kt:kingdomofgod]]**
+  * **[[:tk:obs:notes:key-terms/angel]]**
+  * **[[:tk:obs:notes:key-terms/satan]]**
+  * **[[:tk:obs:notes:key-terms/suffer]]**
+  * **[[:tk:obs:notes:key-terms/righteous]]**
+  * **[[:tk:obs:notes:key-terms/kingdom-of-god]]**
 
   
 ===== Translation Notes: =====
