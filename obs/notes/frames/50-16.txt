@@ -6,13 +6,13 @@ Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, 
 ==== Important Terms: =====
 
   
-  * **[[:tr:obe:other:adam]]**
-  * **[[:tr:obe:other:eve]]**
-  * **[[:tr:obe:other:disobey]]**
-  * **[[:tr:obe:kt:god]]**
-  * **[[:tr:obe:kt:sin]]**
-  * **[[:tr:obe:kt:curse]]**
-  * **[[:tr:obe:kt:heaven]]**
+  * **[[:tk:obe:other:adam]]**
+  * **[[:tk:obe:other:eve]]**
+  * **[[:tk:obe:other:disobey]]**
+  * **[[:tk:obe:kt:god]]**
+  * **[[:tk:obe:kt:sin]]**
+  * **[[:tk:obe:kt:curse]]**
+  * **[[:tk:obe:kt:heaven]]**
    
   
 
